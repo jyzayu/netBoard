@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netBoard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88025fdc87fe5de70a479f7bc5aa178ac8dcd858")]
 [assembly: System.Reflection.AssemblyProductAttribute("netBoard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netBoard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
